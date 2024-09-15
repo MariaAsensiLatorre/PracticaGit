@@ -1,4 +1,4 @@
-# Git Nuestro
+# Git Nuestro (Oración por los controles de versiones)
 
 *Git* nuestro que estás en los repos
 Comprimidos sean tus *commits*
